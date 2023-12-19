@@ -1,7 +1,7 @@
 
 # Advent of Code 2023
 
-![Advent of Code Logo](https://github.com/yuchuehw/Advent-Of-Code-2023/Logo.png)
+![Advent of Code Logo](https://github.com/yuchuehw/Advent-Of-Code-2023/blob/main/Logo.png)
 
 This repository contains my solutions for Advent of Code 2023, a series of programming challenges released daily in December. Each day, a new problem is unlocked, and participants can solve it using any programming language of their choice.
 

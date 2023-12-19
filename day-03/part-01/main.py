@@ -6,6 +6,15 @@ Task: Find the sum of all numbers (engine parts) that are adjacent to at least o
 
 
 def sum_of_engine_part(file_path: str) -> int:
+    """
+    Calculate the sum of all engine part numbers adjacent to at least one symbol in the engine schematic.
+
+    Args:
+        file_path (str): The path to the input file containing the engine schematic.
+
+    Returns:
+        int: The sum of all engine part numbers.
+    """
     engine_part_sum = 0
     part_map = {}
     symbol_coord_list = []

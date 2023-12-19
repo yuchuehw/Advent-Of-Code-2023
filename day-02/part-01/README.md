@@ -2,7 +2,7 @@
 
 This Python script is a solution for Day 2, Part 1 of Advent of Code 2023. It reads a file containing records of several games, each with an ID number and a list of revealed subsets of cubes. The task is to determine which games would have been possible if the bag had been loaded with specific initial quantities of cubes for different colors.
 
-##prompt
+## prompt
 To get information, once a bag has been loaded with cubes, the Elf will reach into the bag, grab a handful of random cubes, show them to you, and then put them back in the bag. He'll do this a few times per game.
 
 You play several games and record the information from each game (your puzzle input). Each game is listed with its ID number (like the 11 in Game 11: ...) followed by a semicolon-separated list of subsets of cubes that were revealed from the bag (like 3 red, 5 green, 4 blue).

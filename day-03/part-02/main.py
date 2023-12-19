@@ -6,6 +6,15 @@ Task: Find the gear ratio of every gear in the machine and add them all up.
 
 
 def sum_of_gear_ratio(file_path: str) -> int:
+    """
+    Calculate the sum of all gear ratios in the engine schematic.
+
+    Args:
+        file_path (str): The path to the input file containing the engine schematic.
+
+    Returns:
+        int: The sum of all gear ratios.
+    """
     engine_part_sum = 0
     part_map = {}
     symbol_coord_list = []

@@ -3,7 +3,7 @@ Advent of Code 2023 - Day 6, Part 1
 
 Task: Determine the number of ways you can win each race (number of integer seconds you can hold the button) to win the race given the provided data.
 
-actual ignore the space hehehehe
+same as part 1 but ignore the space hehehehe(there's only one race)
 
 """
 

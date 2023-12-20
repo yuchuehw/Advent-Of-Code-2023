@@ -39,7 +39,7 @@ def calc_possibility_product(race_data: list) -> int:
     return product_
 
 if __name__ == "__main__":
-    input_file_path = "input4.txt"
+    input_file_path = "input.txt"
     race_data = read_race_data(input_file_path)
     result = calc_possibility_product(race_data)
     print(f"The product of ways to win in all races is {result}")

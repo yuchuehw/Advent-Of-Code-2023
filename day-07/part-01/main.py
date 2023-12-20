@@ -2,6 +2,7 @@
 Advent of Code 2023 - Day 7, Part 1
 
 Task: Determine how much do you win in a poker like game! You are provided with a list of hands and bets!
+The rule could be quite tricky! Re-read the rule in Readme.md if you have time!
 
 """
 from collections import Counter

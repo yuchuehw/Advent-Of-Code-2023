@@ -1,7 +1,7 @@
 """
 Advent of Code 2023 - Day 10, Part 1
 
-Task: Solving gaussian triangle. You are provided row one of each triangle. you need to predict the next number in the row! sum up all these values for all triangles.
+Task: Can you solve this maze! Find the longest distance to travel from the start of the maze to the furthest poin of the loop!
 """
 
 import time

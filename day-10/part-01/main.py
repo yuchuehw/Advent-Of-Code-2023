@@ -55,7 +55,7 @@ def traverse_pipes(pipe_map, previous_move, start_point):
 
     return
 
-def expanded_triangle_sum(file_path: str) -> int:
+def find_max_distance_pipe_loop(file_path: str) -> int:
     with open(file_path, "r", encoding="utf8") as file:
         pipe_map = []
         start_points = []
@@ -88,7 +88,7 @@ if __name__ == "__main__":
     start_time = time.time()  # Record the start time
 
     input_file_path = "input.txt"
-    result = expanded_triangle_sum(input_file_path)
+    result = find_max_distance_pipe_loop(input_file_path)
     end_time = time.time()  # Record the end time
 
     elapsed_time = end_time - start_time  # Calculate the elapsed time

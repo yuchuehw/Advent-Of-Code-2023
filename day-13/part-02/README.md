@@ -76,10 +76,8 @@ Instead of using map of string we can use `0` and `1` to represent the `.` and `
 ## Usage
 
 ```bash
-python filename.py
+python main.py
 ```
-
-Replace `filename.py` with the actual name of your Python script.
 
 ## Input
 

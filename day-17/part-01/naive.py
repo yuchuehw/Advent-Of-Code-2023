@@ -1,5 +1,5 @@
 """
-Advent of Code 2023 - Day 17, Part 1
+Advent of Code 2023 - Day 17, Part 1 (naive)
 
 Task: Write a path finding algorithm to minimize heat loss!
 """

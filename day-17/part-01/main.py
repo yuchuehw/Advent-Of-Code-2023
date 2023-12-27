@@ -1,3 +1,9 @@
+"""
+Advent of Code 2023 - Day 17, Part 1 (main)
+
+Task: Write a path finding algorithm to minimize heat loss!
+"""
+
 import time
 import heapq
 
